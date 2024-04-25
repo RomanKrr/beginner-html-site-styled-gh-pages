@@ -3,6 +3,8 @@ myHeading.textContent = 'Hello world!';
 
 let myImage = document.querySelector('img');
 
+//jfehkufhwe
+
 myImage.onclick = function () {
     console.log('maayy');
     let mySrc = myImage.getAttribute('src');
